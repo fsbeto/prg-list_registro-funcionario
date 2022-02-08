@@ -17,7 +17,7 @@ public class Programa {
 		List<Funcionario> list = new ArrayList<>();
         
 		//obtem os dados do funcionario id nome salario
-		System.out.print("Quantos funcionários serão cadastrados? ");
+		System.out.print("Digite a quantidade de funcionários que serão cadastrados? ");
 		int n = sc.nextInt();
         
 		//for (int i=1; i<=n; i++)
